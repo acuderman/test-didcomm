@@ -2,12 +2,12 @@
   "@context": {
     "@import": "https://ssi.globalid.dev/v1/schema-registry/contexts/File/versions/1",
     "PassportCredential": {
-      "@id": "https://raw.githubusercontent.com/acuderman/test-didcomm/main/passportv3#PassportCredential",
+      "@id": "https://raw.githubusercontent.com/acuderman/test-didcomm/main/passportv8#PassportCredential",
       "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "attr": "https://ssi.globalid.dev/v1/credentials-library/attributes/",
         "credentialSubject": {
-          "@id": "https://raw.githubusercontent.com/acuderman/test-didcomm/main/passportv3#credentialSubject",
+          "@id": "https://raw.githubusercontent.com/acuderman/test-didcomm/main/passportv8#credentialSubject",
           "@context": {
             "data_file": "attr:data_file",
             "birthplace": "attr:birthplace",
