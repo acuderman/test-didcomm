@@ -1,10 +1,10 @@
 {
     "@context": {
-        "@import": "https://ssi.globalid.construction/v1/schema-registry/contexts/File/versions/1",
+        "@import": "https://ssi.globalid.dev/v1/schema-registry/contexts/File/versions/1",
         "Passport": {
             "@id": "https://raw.githubusercontent.com/acuderman/test-didcomm/main/passportv4#Passport",
             "@context": {
-                "attr": "https://ssi.globalid.construction/v1/credentials-library/attributes/",
+                "attr": "https://ssi.globalid.dev/v1/credentials-library/attributes/",
                 "birthplace": "attr:birthplace",
                 "citizenship": "attr:citizenship",
                 "nationality": "attr:nationality",
