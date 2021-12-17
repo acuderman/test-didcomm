@@ -2,8 +2,8 @@
     "@context": {
         "Passport": {
             "@id": "https://ssi.globalid.dev/v1/schema-registry/contexts/Passport/versions/2#Passport",
+            "@import": "https://ssi.globalid.dev/v1/schema-registry/contexts/File/versions/1",
             "@context": {
-                "@import": "https://ssi.globalid.dev/v1/schema-registry/contexts/File/versions/1",
                 "xsd": "http://www.w3.org/2001/XMLSchema#",
                 "attr": "https://ssi.globalid.dev/v1/credentials-library/attributes/",
                 "data_file": "attr:data_file",
