@@ -1,4 +1,5 @@
-{keys:{{
+{
+keys:[{
     "kty": "RSA",
     "e": "AQAB",
     "use": "sig",
